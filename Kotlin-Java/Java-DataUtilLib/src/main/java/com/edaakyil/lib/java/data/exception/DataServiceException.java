@@ -1,6 +1,4 @@
-package com.edaakyil.android.basicviews.data.service.exception;
-
-import androidx.annotation.Nullable;
+package com.edaakyil.lib.java.data.exception;
 
 public class DataServiceException extends RuntimeException {
     public DataServiceException(String message)
@@ -13,7 +11,6 @@ public class DataServiceException extends RuntimeException {
         super(message, cause);
     }
 
-    @Nullable
     @Override
     public String getMessage()
     {
