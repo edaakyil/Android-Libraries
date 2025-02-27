@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.edaakyil.android.library.util.datetime"
+    namespace = "com.edaakyil.android.lib.util.datetime"
     compileSdk = 35
 
     defaultConfig {

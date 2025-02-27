@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="com.edaakyil.SampleTest" time="0.006" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="com.edaakyil.RepositoryExceptionTest" time="0.006" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="C:\Users\edaakyil\Documents\Repositories\Android\csd\Libraries\Kotlin-Java\Java-DataUtilLib\target\test-classes;C:\Users\edaakyil\Documents\Repositories\Android\csd\Libraries\Kotlin-Java\Java-DataUtilLib\target\classes;"/>
+    <property name="java.class.path" value="C:\Users\edaakyil\Documents\Repositories\csd\Android\Libraries\Kotlin-Java\Java-DataUtilLib\target\test-classes;C:\Users\edaakyil\Documents\Repositories\csd\Android\Libraries\Kotlin-Java\Java-DataUtilLib\target\classes;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -16,9 +16,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\edaakyil\AppData\Local\Temp\surefire2406998542486926317\surefirebooter-20250226122308749_3.jar C:\Users\edaakyil\AppData\Local\Temp\surefire2406998542486926317 2025-02-26T12-23-08_551-jvmRun1 surefire-20250226122308749_1tmp surefire_0-20250226122308749_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\edaakyil\AppData\Local\Temp\surefire4173059499467815910\surefirebooter-20250227115223705_3.jar C:\Users\edaakyil\AppData\Local\Temp\surefire4173059499467815910 2025-02-27T11-52-23_550-jvmRun1 surefire-20250227115223705_1tmp surefire_0-20250227115223705_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\edaakyil\Documents\Repositories\Android\csd\Libraries\Kotlin-Java\Java-DataUtilLib\target\test-classes;C:\Users\edaakyil\Documents\Repositories\Android\csd\Libraries\Kotlin-Java\Java-DataUtilLib\target\classes;"/>
+    <property name="surefire.test.class.path" value="C:\Users\edaakyil\Documents\Repositories\csd\Android\Libraries\Kotlin-Java\Java-DataUtilLib\target\test-classes;C:\Users\edaakyil\Documents\Repositories\csd\Android\Libraries\Kotlin-Java\Java-DataUtilLib\target\classes;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\edaakyil"/>
     <property name="user.language" value="en"/>
@@ -26,12 +26,12 @@
     <property name="java.version.date" value="2024-07-16"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\edaakyil\Documents\Repositories\Android\csd\Libraries\Kotlin-Java\Java-DataUtilLib"/>
+    <property name="basedir" value="C:\Users\edaakyil\Documents\Repositories\csd\Android\Libraries\Kotlin-Java\Java-DataUtilLib"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\edaakyil\AppData\Local\Temp\surefire2406998542486926317\surefirebooter-20250226122308749_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\edaakyil\AppData\Local\Temp\surefire4173059499467815910\surefirebooter-20250227115223705_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.12+8-LTS-286"/>
@@ -45,7 +45,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\edaakyil\AppData\Local\Temp\"/>
     <property name="java.version" value="17.0.12"/>
-    <property name="user.dir" value="C:\Users\edaakyil\Documents\Repositories\Android\csd\Libraries\Kotlin-Java\Java-DataUtilLib"/>
+    <property name="user.dir" value="C:\Users\edaakyil\Documents\Repositories\csd\Android\Libraries\Kotlin-Java\Java-DataUtilLib"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="user.language.format" value="tr"/>
@@ -58,5 +58,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="com.edaakyil.SampleTest.test()" classname="com.edaakyil.SampleTest" time="0.001"/>
+  <testcase name="com.edaakyil.RepositoryExceptionTest.test()" classname="com.edaakyil.RepositoryExceptionTest" time="0.001"/>
 </testsuite>

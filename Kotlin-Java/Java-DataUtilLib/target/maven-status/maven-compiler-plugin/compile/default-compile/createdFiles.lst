@@ -1,1 +1,3 @@
-com\edaakyil\lib\java\data\exception\DataServiceException.class
+com\edaakyil\java\data\exception\service\DataServiceException.class
+com\edaakyil\java\data\exception\repository\ICrudRepository.class
+com\edaakyil\java\data\exception\repository\RepositoryException.class

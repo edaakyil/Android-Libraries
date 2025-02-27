@@ -1,6 +1,6 @@
 package com.edaakyil;
 
-public class SampleTest {
+public class RepositoryExceptionTest {
     public void test()
     {
     	

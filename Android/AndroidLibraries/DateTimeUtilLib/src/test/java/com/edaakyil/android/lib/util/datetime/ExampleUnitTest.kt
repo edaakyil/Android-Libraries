@@ -1,4 +1,4 @@
-package com.edaakyil.android.library.util.datetime
+package com.edaakyil.android.lib.util.datetime
 
 import org.junit.Test
 
