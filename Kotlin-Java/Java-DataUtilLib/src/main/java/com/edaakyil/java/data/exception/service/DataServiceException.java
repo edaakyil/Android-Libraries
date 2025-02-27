@@ -1,9 +1,14 @@
-package com.edaakyil.lib.java.data.exception;
+package com.edaakyil.java.data.exception.service;
 
 public class DataServiceException extends RuntimeException {
+    public DataServiceException()
+    {
+        this(null);
+    }
+
     public DataServiceException(String message)
     {
-        super(message);
+        this(message, null);
     }
 
     public DataServiceException(String message, Throwable cause)
