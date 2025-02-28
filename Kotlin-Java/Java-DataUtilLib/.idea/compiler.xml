@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="GenericLib" />
         <module name="com-edaakyil-lib-java-data" />
+        <module name="com-edaakyil-java-lib-data" />
+        <module name="GenericLib" />
         <module name="Library-Maven" />
       </profile>
     </annotationProcessing>
@@ -20,6 +21,7 @@
       <module name="GenericApp" options="-parameters" />
       <module name="GenericLib" options="-parameters" />
       <module name="Library-Maven" options="-parameters" />
+      <module name="com-edaakyil-java-lib-data" options="-parameters" />
       <module name="com-edaakyil-lib-java-data" options="-parameters" />
     </option>
   </component>
