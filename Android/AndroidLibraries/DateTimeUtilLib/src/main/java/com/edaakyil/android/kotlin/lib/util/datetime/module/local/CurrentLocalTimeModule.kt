@@ -1,6 +1,6 @@
-package com.edaakyil.android.lib.util.datetime.module.local
+package com.edaakyil.android.kotlin.lib.util.datetime.module.local
 
-import com.edaakyil.android.lib.util.datetime.module.annotation.CurrentLocalTimeInterceptor
+import com.edaakyil.android.kotlin.lib.util.datetime.module.annotation.CurrentLocalTimeInterceptor
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

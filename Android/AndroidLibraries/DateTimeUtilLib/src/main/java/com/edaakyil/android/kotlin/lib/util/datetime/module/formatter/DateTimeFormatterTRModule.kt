@@ -1,6 +1,6 @@
-package com.edaakyil.android.lib.util.datetime.module.formatter
+package com.edaakyil.android.kotlin.lib.util.datetime.module.formatter
 
-import com.edaakyil.android.lib.util.datetime.module.annotation.DateTimeFormatterTRInterceptor
+import com.edaakyil.android.kotlin.lib.util.datetime.module.annotation.DateTimeFormatterTRInterceptor
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

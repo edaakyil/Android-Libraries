@@ -1,4 +1,4 @@
-package com.edaakyil.android.lib.util.datetime.module.annotation
+package com.edaakyil.android.kotlin.lib.util.datetime.module.annotation
 
 import javax.inject.Qualifier
 

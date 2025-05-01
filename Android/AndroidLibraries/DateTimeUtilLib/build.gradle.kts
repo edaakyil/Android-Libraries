@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.edaakyil.android.lib.util.datetime"
+    namespace = "com.edaakyil.android.kotlin.lib.util.datetime"
     compileSdk = 35
 
     defaultConfig {
@@ -25,11 +25,13 @@ android {
             )
         }
     }
+
     compileOptions {
         isCoreLibraryDesugaringEnabled = true
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
     }
+
     kotlinOptions {
         jvmTarget = "17"
     }
